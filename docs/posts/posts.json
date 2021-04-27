@@ -1,5 +1,24 @@
 [
   {
+    "path": "posts/2021-04-27-yes-i-have-a-blog/",
+    "title": "Yes I have a blog",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2021-04-27",
+    "categories": [],
+    "contents": "\r\nSTUFF Distill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+    "preview": "posts/2021-04-27-yes-i-have-a-blog/yes-i-have-a-blog_files/figure-html5/unnamed-chunk-1-1.png",
+    "last_modified": "2021-04-27T16:46:32-06:00",
+    "input_file": {},
+    "preview_width": 1248,
+    "preview_height": 768
+  },
+  {
     "path": "posts/welcome/",
     "title": "Welcome to Catchy Blog Name",
     "description": "Welcome to our new blog, Catchy Blog Name. We hope you enjoy \nreading what we have to say!",

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Catchy Blog Name</title>
+    <link>https://dkpalmers.github.io/dkpalmers2.github.io/</link>
+    <atom:link href="https://dkpalmers.github.io/dkpalmers2.github.io/index.xml" rel="self" type="application/rss+xml"/>
+    <description>Catchy Blog Name
+</description>
+    <generator>Distill</generator>
+    <lastBuildDate>Tue, 27 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Yes I have a blog</title>
+      <dc:creator/>
+      <link>https://dkpalmers.github.io/dkpalmers2.github.io/posts/2021-04-27-yes-i-have-a-blog</link>
+      <description>A short description of the post.</description>
+      <guid>https://dkpalmers.github.io/dkpalmers2.github.io/posts/2021-04-27-yes-i-have-a-blog</guid>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://dkpalmers.github.io/dkpalmers2.github.io/posts/2021-04-27-yes-i-have-a-blog/yes-i-have-a-blog_files/figure-html5/unnamed-chunk-1-1.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>Welcome to Catchy Blog Name</title>
+      <dc:creator>Nora Jones</dc:creator>
+      <link>https://dkpalmers.github.io/dkpalmers2.github.io/posts/welcome</link>
+      <description>Welcome to our new blog, Catchy Blog Name. We hope you enjoy 
+reading what we have to say!</description>
+      <guid>https://dkpalmers.github.io/dkpalmers2.github.io/posts/welcome</guid>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -3,6 +3,7 @@ title: "Catchy Blog Name"
 description: |
   Catchy Blog Name
 output_dir: "docs"
+base_url: https://dkpalmers.github.io/dkpalmers2.github.io/
 navbar:
   right:
     - text: "Home"
